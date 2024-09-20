@@ -1,0 +1,4 @@
+.menu__banner > div {display:flex;flex-direction:column;justify-content:center;height:100%;padding: 15px;text-align:center;background:#f7f7f7;border-radius:4px}
+.menu__banner div img {margin:15px 0;padding:15px}
+.menu__banner span {color:#ff9900;font-size:1.5em;font-weight:500}
+.menu__banner span:last-of-type{font-size:1.3em}
